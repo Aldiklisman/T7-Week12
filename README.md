@@ -94,7 +94,7 @@ Lihat halaman Kaggle dataset untuk detail lisensi dan atribusi.
 
 Screenshot yang ada di folder `screenshot/` (langsung ditampilkan di bawah):
 
-![Tampilan Awal](screenshot/Tampilan%20Awal.png)
+![Tampilan Awal](screenshot/TampilanAwal.png)
 
 _Gambar 1: Tampilan awal aplikasi saat pertama kali dibuka (tabel dan chart)._
 
